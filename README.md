@@ -2,7 +2,7 @@
 
 ## Video Output:
 
-
+https://github.com/user-attachments/assets/59cd73e4-d61c-4ea8-a96b-ef15fb9a3b85
 
 ## What is Automation?
 
@@ -61,6 +61,16 @@ Playwright is an excellent choice for web automation due to its cross-browser ca
 - Click on the "Apply" button.
 - Verify the leave request is successfully applied.
 
-## Playwright Report Screenshot:
+## Allure Report Screenshot:
 
-![image]()
+![image](https://github.com/user-attachments/assets/fc9bb561-55e3-4d02-b4b0-10793df39a1c)
+![image](https://github.com/user-attachments/assets/34ef6f63-f945-4ec8-8adc-aeb15aef59d3)
+![image](https://github.com/user-attachments/assets/768629f2-2f5f-4d26-a178-8b9e53691860)
+![image](https://github.com/user-attachments/assets/6f249837-eed0-4d3d-804c-2a5b0b33008a)
+![image](https://github.com/user-attachments/assets/400f1999-2aa2-429a-b070-52166a277367)
+![image](https://github.com/user-attachments/assets/8c8b1c4c-df68-42d3-ad33-eb516afb2c03)
+
+
+
+
+
