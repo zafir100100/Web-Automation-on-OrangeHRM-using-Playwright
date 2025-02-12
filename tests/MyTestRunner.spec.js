@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config();
 const { test } = require('@playwright/test');
 const LandingPage = require('../pages/LandingPage');
 const DashboardPage = require('../pages/DashboardPage');
