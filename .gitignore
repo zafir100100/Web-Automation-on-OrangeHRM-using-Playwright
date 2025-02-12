@@ -133,3 +133,4 @@ package-lock.json
 /tests-examples
 /test-results
 /playwright-report
+/allure-results
